@@ -8,8 +8,29 @@
 ---
 
 > ## Homework List
+
 > - The First Homework
+: Completed
 
 > - The Second Homework
+: Completed
 
 > - The Third Homework
+: [Ex03][1]
+
+> - The Forth Homework
+: [Ex04][2]
+
+> - The Fifth Homework
+: [Ex05][3]
+
+> - The Sixth Homework
+: [Ex06][4]
+
+> - The Seventh Homework
+: [Ex07][5]
+
+
+  
+
+
