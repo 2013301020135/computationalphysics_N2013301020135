@@ -16,7 +16,7 @@
 : Completed
 
 > - The Third Homework
-: [Ex03][1]
+: [Ex03](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Exercise-3/Homework%203.md)
 
 > - The Forth Homework
 : [Ex04][2]
