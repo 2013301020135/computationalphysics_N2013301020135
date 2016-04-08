@@ -46,14 +46,14 @@
 
 ---
 
-## Conclusion
+## *Conclusion*
  - All the requirement L1, L2, L3 are completed.
  - Since each "pixel" --- '#' is quite large, the number of "pixel" is rather limited. As a consequence, the English letters are not so smooth or pretty.
  - The effect of rotation is not so desirable, due to the same reason above.
 
 ---
 
-## Acknowledgment
+## *Acknowledgment*
    The program part is based on the program of [2013301020085](https://github.com/whuCanon/computationalphysics_N2013301020085/blob/master/homework_3/README.md).
 
 
