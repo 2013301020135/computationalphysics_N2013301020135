@@ -3,7 +3,8 @@
 
 
 ## *Abstract*
-    We use Python to design the programs, which can realize the purpose of this assignment. This article deals with the ideas for these problems, the programs ,and the results.
+    We use Python to design the programs, which can realize the purpose of this assignment. 
+    This article deals with the ideas for these problems, the programs ,and the results.
 
 ---
 
