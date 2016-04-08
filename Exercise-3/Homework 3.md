@@ -31,17 +31,17 @@
 
 
 ### 3. Programs
- - [MiniGUI.py][]
- - [Ex03.py][]
+ - [MiniGUI.py](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/MiniGUI.py)
+ - [Ex03.py](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/Ex03.py)
 
 
 ### 4. Results
  - L1:
- ![Ex3-L1.png]()
+ ![Ex3-L1.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/Ex3-L1.png)
  - L2:
- ![Ex3-L2.png]()
+ ![Ex3-L2.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/Ex3-L2.png)
  - L3:
- ![Ex3-L3.gif]()
+ ![Ex3-L3.gif](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/Ex3-L3.gif)
 
 
 ---
