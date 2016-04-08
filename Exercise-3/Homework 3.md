@@ -31,8 +31,8 @@
 
 
 ### 3. Programs
- - [MiniGUI.py](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/MiniGUI.py)
- - [Ex03.py](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Exercise-3/Ex03.py)
+ - [MiniGUI.py](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Exercise-3/MiniGUI.py)
+ - [Ex03.py](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Exercise-3/Ex03.py)
 
 
 ### 4. Results
