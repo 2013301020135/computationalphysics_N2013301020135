@@ -54,8 +54,6 @@ def read():
 	pickle_file = open("pickled_data_ex4.pkl", "r")
 	t = pickle.load(pickle_file)
 	v = pickle.load(pickle_file)
-	print t
-	print v
 
 initialize(v, s, t, dt, n)
 calculate(v, s, t, dt, n)
