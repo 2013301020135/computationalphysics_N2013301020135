@@ -4,6 +4,8 @@
 
 ## *Abstract*
     We use Python to design the programs, which can realize the purpose of this assignment. 
+    English letters are expressed in pattern composed of '#'. 
+    Different letters are organized to display names and so on.
     This article deals with the ideas for these problems, the programs ,and the results.
 
 ---
