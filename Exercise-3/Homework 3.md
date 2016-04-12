@@ -20,7 +20,7 @@
 ### 1. Requirement
  - L1: Print your name in English letters on screen using '#';
  - L2: Print arbitrary names in any order in the same way;
- - L3: Print anything you like in a 80*80 dot square (and realize move, rotate)
+ - L3: Print anything you like in a 80*80 dot square (and realize move, rotate).
 
 
 ### 2. Ideas
