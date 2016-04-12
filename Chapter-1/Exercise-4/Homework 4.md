@@ -20,9 +20,9 @@
 
 ## *Body*
 ### 1. Requirement
- - Calculate $v$ as a function of $t$;
+ - Calculate `v` as a function of `t`;
  - Repeat the calculation for several different values of the time step;
- - Compare the results with the exact solution to $dv/dt=-g$;
+ - Compare the results with the exact solution to `dv/dt=-g`;
  - Verify that for this case the Euler method gives the exact result.
 
 
@@ -35,11 +35,11 @@
 
 
 ### 4. Results
- - Time step $dt=0.5s$:
+ - Time step `dt=0.5s`:
  ![Ex4-1.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-1/Exercise-4/Ex4-1.png)
- - Time step $dt=0.2s$:
+ - Time step `dt=0.2s`:
  ![Ex4-2.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-1/Exercise-4/Ex4-2.png)
- - Time step $dt=0.05s$:
+ - Time step `dt=0.05s`:
  ![Ex4-3.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-1/Exercise-4/Ex4-3.png)
 
 
