@@ -6,7 +6,8 @@
 ## *Abstract*
     The problem chosen is 1.1, the velocity of a freely falling object. 
     We use Python to design the programs, which can realize the purpose of this assignment. 
-    Besides, this program is a general one which not only can solve this specific problem, but also can handle this sort of problem with different initial velocity and time.
+    Besides, this program is a general one which not only can solve this specific problem, 
+    but also can handle this sort of problem with different initial velocity and time.
     This article deals with the ideas for these problems, the programs ,and the results.
 
 ---
@@ -30,7 +31,7 @@
 
 
 ### 3. Programs
- - ![Ex04.py](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-1/Exercise-4/Ex04.py)
+ - [Ex04.py](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-1/Exercise-4/Ex04.py)
 
 
 ### 4. Results
