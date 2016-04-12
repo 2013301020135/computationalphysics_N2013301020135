@@ -1,33 +1,33 @@
-# computationalphysics_N2013301020135
+# Computationalphysics_N2013301020135
 ###  Wuhan University
-###  School of Physics
-###  Hongyi class
-###  LIU YANG
-###  2013301020135
+####  School of Physics
+#####  Hongyi class
+###  *LIU YANG*
+###  **2013301020135**
 
 ---
 
 > ## Homework List
 
-> - The First Homework
+> - [x] The First Homework
 : Completed
 
-> - The Second Homework
+> - [x] The Second Homework
 : Completed
 
-> - The Third Homework
+> - [x] The Third Homework
 : [Ex03](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Exercise-3/Homework%203.md)
 
-> - The Forth Homework
+> - [ ] The Forth Homework
 : [Ex04][2]
 
-> - The Fifth Homework
+> - [ ] The Fifth Homework
 : [Ex05][3]
 
-> - The Sixth Homework
+> - [ ] The Sixth Homework
 : [Ex06][4]
 
-> - The Seventh Homework
+> - [ ] The Seventh Homework
 : [Ex07][5]
 
 
