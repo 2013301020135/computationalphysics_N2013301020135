@@ -56,7 +56,7 @@
 ---
 
 ## *Acknowledgment*
-   The program part is based on the program of [2013301020085](https://github.com/whuCanon/computationalphysics_N2013301020085/blob/master/homework_3/README.md).
+   The program part is based on the program of [2013301020085](https://github.com/whuCanon/computationalphysics_N2013301020085/tree/master/homework_3).
 
 
 > Written with [StackEdit](https://stackedit.io/).
