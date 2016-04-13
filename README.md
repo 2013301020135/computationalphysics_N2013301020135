@@ -25,10 +25,10 @@
 : [Ex05](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-1/Exercise-5/Homework%205.md)
 
 > - [ ] The Sixth Homework
-: [Ex06]()
+: [Ex06][]
 
 > - [ ] The Seventh Homework
-: [Ex07]()
+: [Ex07][]
 
 
   
