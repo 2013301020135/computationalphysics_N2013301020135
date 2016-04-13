@@ -1,4 +1,5 @@
 
+
 # **The Forth Homework**
 
 
@@ -27,7 +28,19 @@
 
 
 ### 2. Ideas
- 
+ - Numerical Method is a particularly useful approach to solve an initial value problem. Take the free falling problem as an example, which is <br>
+![](http://latex.codecogs.com/gif.latex?%5Cfrac%7Bdv%7D%7Bdt%7D%3D-g) <br>
+with `g` being the acceleration due to gravity and initial velocity ![](http://latex.codecogs.com/gif.latex?v_%7B0%7D%3D0). <br>
+The numerical approach to this problem is based on the Taylor expansion for `v(t)` at `t=0`, <br>
+![](http://latex.codecogs.com/gif.latex?v%28t%29%3Dv%280%29&plus;v%7B%7D%27%280%29t&plus;%5Cfrac%7Bv%7B%7D%27%27%280%29%7D%7B2%21%7Dt%5E2&plus;...). 
+ - If we take t to be small enough, it is always a good approximation to simply consider only the first two terms, leaving us with <br>
+![](http://latex.codecogs.com/gif.latex?v%28t%29%5Capprox%20v%280%29&plus;v%7B%7D%27%280%29t). <br>
+Similarlly by expanding `v(t)` at time `t`, we can esitimate the value of ![](http://latex.codecogs.com/gif.latex?v%28t&plus;%5CDelta%20t%29) at ![](http://latex.codecogs.com/gif.latex?t%7B%7D%27%3Dt&plus;%5CDelta%20t) to be <br>
+![](http://latex.codecogs.com/gif.latex?v%28t&plus;%5CDelta%20t%29%3Dv%28t%29&plus;v%7B%7D%27%28t%29%5CDelta%20t%3Dv%28t%29-g%5CDelta%20t). <br>
+ - Therefore, by repeatedly applying this method, we can estimate the value of the velocity at time ![](http://latex.codecogs.com/gif.latex?t%3D%5CDelta%20t%2C2%5CDelta%20t%2C3%5CDelta%20t%2C...) <br>
+ - From latter discussion, we will see that the Euler solution of the free falling problem is actually the exact solution, which is the result of the first derivative of `v(t)` being constant and thus the second (and higher) derivative of it being zero.
+ - To estimate how well Euler solution approaches the real solution, a comparison between the Euler solution and the exact solution is made in this assignment.
+ - We select three different values of time step including `dt=0.5s`, `dt=0.2s`, `dt=0.05s`, to investigate the influence of time step length.
 
 
 ### 3. Programs
@@ -46,7 +59,9 @@
 ---
 
 ## *Conclusion*
-
+ - As we can see from these graphs, all the dots calculate according to the Euler method are precisely located on the analytical solution curve.
+ - We con conclude from the data printed by the program that in this case, no matter how long the time step is, are exactly the exact results.
+ - Since the Euler method always yield the exact results in this case, the time step length makes no difference in the results at all.
 
 ---
 
