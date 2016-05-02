@@ -30,7 +30,26 @@
 > - [ ] The Seventh Homework
 : [Ex07][]
 
+> - [ ] The Eighth Homework
+: [Ex08][]
 
-  
+> - [ ] The Ninth Homework
+: [Ex09][]
 
+> - [ ] The Tenth Homework
+: [Ex10][]
 
+> - [ ] The Eleventh Homework
+: [Ex11][]
+
+> - [ ] The Twelfth Homework
+: [Ex12][]
+
+> - [ ] The Thirteenth Homework
+: [Ex13][]
+
+> - [ ] The Forteenth Homework
+: [Ex14][]
+
+> - [ ] The Fifteenth Homework
+: [Ex15][]
