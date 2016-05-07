@@ -60,7 +60,7 @@ Similarlly by expanding `v(t)` at time `t`, we can esitimate the value of ![](ht
 
 ## *Conclusion*
  - As we can see from these graphs, all the dots calculate according to the Euler method are precisely located on the analytical solution curve.
- - We con conclude from the data printed by the program that in this case, no matter how long the time step is, are exactly the exact results.
+ - We can conclude from the data printed by the program that in this case, no matter how long the time step is, are exactly the exact results.
  - Since the Euler method always yield the exact results in this case, the time step length makes no difference in the results at all.
 
 ---
