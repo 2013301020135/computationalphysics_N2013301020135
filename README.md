@@ -24,11 +24,11 @@
 > - [x] The Fifth Homework
 : [Ex05](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-1/Exercise-5/Homework%205.md)
 
-> - [ ] The Sixth Homework
-: [Ex06][]
+> - [x] The Sixth Homework
+: [Ex06](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-6/Homework%206.md)
 
 > - [ ] The Seventh Homework
-: [Ex07][]
+: [Ex07][https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-7/Homework%207.md]
 
 > - [ ] The Eighth Homework
 : [Ex08][]
