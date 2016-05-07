@@ -28,19 +28,19 @@
 : [Ex06](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-6/Homework%206.md)
 
 > - [ ] The Seventh Homework
-: [Ex07][https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-7/Homework%207.md]
+: [Ex07](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-7/Homework%207.md)
 
 > - [ ] The Eighth Homework
-: [Ex08][]
+: [Ex08]()
 
 > - [ ] The Ninth Homework
-: [Ex09][]
+: [Ex09]()
 
 > - [ ] The Tenth Homework
-: [Ex10][]
+: [Ex10]()
 
 > - [ ] The Eleventh Homework
-: [Ex11][]
+: [Ex11]()
 
 > - [ ] The Twelfth Homework
 : [Ex12][]
