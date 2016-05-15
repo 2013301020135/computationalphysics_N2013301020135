@@ -4,9 +4,26 @@ import matplotlib.pyplot as plt
 g=9.8
 dt=0.01
 
+print 'Input baseball type (0 for rough, 1 for normal, 2 for smooth) ->',
+balltype = float(raw_input())
+basetype = 0
+
+
 def B2m(v):
     'Calculate air resistance factor'
-    B2m=0.0039+0.0058/(1+math.exp((v-35)/5))
+    if (balltype == 0):
+        B2m=(0.0013+0.0084/(1+math.exp((v-21)/2.5)))*(4-(3-math.exp((v-39)/2))/(1+math.exp((v-39)/2)))
+        basetype = 1
+    if (balltype == 1):
+        B2m=0.0039+0.0058/(1+math.exp((v-35)/5))
+        basetype = 1
+    if (balltype == 2):
+        B2m=0.0013+0.0084/(1+math.exp((v-65)/4))
+        basetype = 1
+    if (basetype == 0):
+        print 'Baseball type error!'
+        print 'Calculate as normal baseball!'
+        B2m=0.0039+0.0058/(1+math.exp((v-35)/5))
     return B2m
 
 print 'Input angular velocity ->',
