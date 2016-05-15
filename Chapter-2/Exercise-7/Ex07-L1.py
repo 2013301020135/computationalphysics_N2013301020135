@@ -96,6 +96,7 @@ plt.xlabel('x/m')
 plt.ylabel('y/m')
 #plt.xlim(0,180)
 plt.legend(loc="upper right", frameon=True,prop={'size':10})
+plt.savefig('Ex07-L1.png',dpi = 144)
 plt.show()
 print 'distance with tailwind and backspin=',x1[-1]
 print 'distance with headwind and backspin=',x2[-1]
