@@ -71,7 +71,7 @@ Thus for the density: <br> ![](http://latex.codecogs.com/gif.latex?%5Crho%3D%5Cr
 ## *Conclusion*
  - As we can see from these graphs, the effects of air drag is dominant in the motion of cannon shell.
  - We can see from the charts that how we treat the air density at high altitudes have considerable effects on the trajectory of the cannon shell.
- - Just like the textbook and these passage indicates, the maximum range of a cannon shell with both air drag and density correction is approximately 20 km, which is in accord with reality.
+ - Just like the textbook and this passage indicates, the maximum range of a cannon shell with both air drag and density correction is approximately 20 km, which is in accord with reality.
  - The accuracy increases as time interval decrease. 
  - Besides, simple Euler method is more accurate than Runge-Kutta method in this case, and that is why I choose simple Euler method to solve this problem.
  - Also, compare the figures for L2, we find that the altitude of target has strong relation with the firing velocity.
