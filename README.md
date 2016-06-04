@@ -30,7 +30,7 @@
 > - [x] The Seventh Homework
 : [Ex07](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-2/Exercise-7/Homework%207.md)
 
-> - [ ] The Eighth Homework
+> - [x] The Eighth Homework
 : [Ex08](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-3/Exercise-8/Homework%208.md)
 
 > - [ ] The Ninth Homework
