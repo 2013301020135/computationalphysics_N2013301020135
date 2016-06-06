@@ -21,7 +21,7 @@
 
 ## *Body*
 ### 1. Requirement
- - Calculate `x` as a function of `t`;
+ - Calculate `x` as a function of `t`.
  - Compare the results with the exact solution to `dx/dt=v`.
 
 
