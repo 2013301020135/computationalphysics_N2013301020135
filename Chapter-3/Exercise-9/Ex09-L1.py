@@ -50,13 +50,13 @@ for m in range(2,3):
     c_omega1=[]
     c_t1=[]
     Calculate(Initial_theta,Initial_omega,c_t,c_theta,c_omega) 
-    i=150
+    i=225
     n=0
     while i<3000000:
             c_theta1.append(c_theta[i])
             c_omega1.append(c_omega[i])
             c_t1.append(c_t[i])
-            i=i+300
+            i=i+450
             n=n+1
     print 'Total',len(c_theta1)
     plt.scatter(c_theta1,c_omega1,label='theta corresponding to maximum drive force F_D = 1.2(N)')
