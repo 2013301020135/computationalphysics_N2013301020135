@@ -51,8 +51,11 @@
 > - [ ] The Forteenth Homework
 : [Ex14]()
 
-> - [ ] The Fifteenth Homework
-: [Ex15]()
+> - [x] The Fifteenth Homework
+: Cancelled
+
+> - [x] The Sixteenth Homework
+: Completed
 
 > ## Project
 
