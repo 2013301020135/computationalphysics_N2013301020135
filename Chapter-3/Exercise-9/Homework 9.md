@@ -43,7 +43,7 @@
  - We run the program, and yield the Poincaré section for these required cases.
  - `Omega` as a function of `theta` for a driven nonlinear pendulum, at times that are in phase with the driving force: <br> ![Ex9-L1-1.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-3/Exercise-9/Ex9-L1-1.png)
  - The Poincaré section for a driven nonlinear pendulum, at times `π/4` out-of-phase with the driving force: <br> ![Ex9-L1-2.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-3/Exercise-9/Ex9-L1-2.png)
- - The Poincaré section at times corresponding to a maximum of the drive force: <br> ![Ex9-L1-3.png]
+ - The Poincaré section at times corresponding to a maximum of the drive force: <br> ![Ex9-L1-3.png](https://raw.githubusercontent.com/2013301020135/computationalphysics_N2013301020135/master/Chapter-3/Exercise-9/Ex9-L1-3.png)
  
     
 ---
