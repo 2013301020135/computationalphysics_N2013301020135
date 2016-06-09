@@ -36,7 +36,7 @@
 > - [x] The Ninth Homework
 : [Ex09](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-3/Exercise-9/Homework%209.md)
 
-> - [ ] The Tenth Homework
+> - [x] The Tenth Homework
 : [Ex10](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-3/Exercise-10/Homework%2010.md)
 
 > - [ ] The Eleventh Homework
