@@ -40,10 +40,10 @@
 : [Ex10](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-3/Exercise-10/Homework%2010.md)
 
 > - [ ] The Eleventh Homework
-: [Ex11]()
+: [Ex11](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-4/Exercise-11/Homework%2011.md)
 
 > - [ ] The Twelfth Homework
-: [Ex12]()
+: [Ex12](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-4/Exercise-12/Homework%2012.md)
 
 > - [ ] The Thirteenth Homework
 : [Ex13]()
