@@ -22,7 +22,7 @@
 ## *Body*
 ### 1. Requirement
  - L1: Problem 3.26.;
- - L2: Problem 3.29 or 3.31.;
+ - L2: Problem 3.29. or 3.31.;
  - L3: Perform a 3D exhibition of above problems using Vpython.
 
 
