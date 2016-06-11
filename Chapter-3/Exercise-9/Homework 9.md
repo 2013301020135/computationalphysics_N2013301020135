@@ -23,7 +23,7 @@
 ## *Body*
 ### 1. Requirement
  - L1: Problem 3.12.;
- - L2: Problem 3.16 or 3.21..
+ - L2: Problem 3.16. or 3.21..
 
 
 ### 2. Ideas
