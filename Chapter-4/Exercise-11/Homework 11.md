@@ -15,7 +15,7 @@
 ---
 
 ## *Introduction*
- - There are many different situations in the study of planetary motion. Now consider a hypothetical, ideal celestial system consisting of two planets. Both experience only the gravitation produced by the other one.A few of the properties are investigated here.
+ - There are many different situations in the study of planetary motion. Now consider a hypothetical, ideal celestial system consisting of two planets. Both experience only the gravitation produced by the other one. A few of the properties are investigated here.
  - The motion of celestial objects has always aroused great curiosity in fields like astronomy and astrophysics. It is worth while to study a two body system, which could be solved both analytically and numerically.
 
 ---
