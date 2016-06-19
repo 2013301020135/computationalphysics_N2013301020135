@@ -57,7 +57,10 @@
 > - [x] The Sixteenth Homework
 : Completed
 
+> - [x] The Seventeenth Homework
+: Completed
+
 > ## Project
 
 > - [ ] The Final Homework
-: [Assignment]()
+: [Assignment](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Project/Assignment.md)
