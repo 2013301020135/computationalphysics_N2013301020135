@@ -88,19 +88,19 @@ def four_orbits(m_f,m_s,m_t,m_p):
     v_fy=[]
     v_fy.append(v_fy0)
 #The planet
-    x_p0=0
+    x_p0=-initial(a_p,e_p)[0]
     x_p=[]
     x_p.append(x_p0)
     
-    v_px0=-initial(a_p,e_p)[1]
+    v_px0=0
     v_px=[]
     v_px.append(v_px0)
 
-    y_p0=initial(a_p,e_p)[0]
+    y_p0=0
     y_p=[]
     y_p.append(y_p0)
     
-    v_py0=0
+    v_py0=-initial(a_p,e_p)[1]
     v_py=[]
     v_py.append(v_py0)
 #Distance
@@ -119,7 +119,6 @@ def four_orbits(m_f,m_s,m_t,m_p):
 
     t=[]
     t.append(0)
-#    time=40.0
     dt=0.001
     
     for i in range(int(time/dt)):
@@ -181,7 +180,7 @@ x_p=four[6]
 y_p=four[7]
 t=four[8]
 
-#Plot
+#Plot (local)
 figure(figsize=[8,8])
 plot(x_f,y_f,color='red')
 plot(x_s,y_s,color='yellow')
@@ -190,13 +189,13 @@ plot(x_p,y_p,color='green')
 legend(('First','Second','Third','Planet'),'upper left')
 title('three-star system trajectory M_p',fontsize=15)
 xlabel('x/AU')
-xlim(-600,600)
+xlim(-50,50)
 ylabel('y/AU')
-ylim(-600,600)
+ylim(-50,50)
 savefig('Assignment-1.png')
 show()
 
-#3D plot
+#3D plot (local)
 fig = figure()
 ax = fig.add_subplot(111, projection='3d')
 ax.plot(x_f,y_f,t,color='red')
@@ -207,7 +206,34 @@ legend(('Firth','Second','Third','Planet'),'upper left')
 ax.set_xlabel('x/Au')
 ax.set_ylabel('y/AU')
 ax.set_zlabel('t/yr')
-ax.set_xlim(-600,600)
-ax.set_ylim(-600,600)
+ax.set_xlim(-50,50)
+ax.set_ylim(-50,50)
 savefig('Assignment-2.png')
+show()
+
+#Plot (global)
+figure(figsize=[8,8])
+plot(x_f,y_f,color='red')
+plot(x_s,y_s,color='yellow')
+plot(x_t,y_t,color='blue')
+plot(x_p,y_p,color='green')
+legend(('First','Second','Third','Planet'),'upper left')
+title('three-star system trajectory M_p',fontsize=15)
+xlabel('x/AU')
+ylabel('y/AU')
+savefig('Assignment-3.png')
+show()
+
+#3D plot (global)
+fig = figure()
+ax = fig.add_subplot(111, projection='3d')
+ax.plot(x_f,y_f,t,color='red')
+ax.plot(x_s,y_s,t,color='yellow')
+ax.plot(x_t,y_t,t,color='blue')
+ax.plot(x_p,y_p,t,color='green')
+legend(('Firth','Second','Third','Planet'),'upper left')
+ax.set_xlabel('x/Au')
+ax.set_ylabel('y/AU')
+ax.set_zlabel('t/yr')
+savefig('Assignment-4.png')
 show()
