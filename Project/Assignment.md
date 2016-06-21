@@ -7,16 +7,16 @@
 ## *Abstract*
     Based on Alpha Centauri, the C star of which is the nearest star to our sun, we construct a three-star system.
     The model includes three stars of comparable masses, and a planet of negligible mass.
-	We investigate the three body problem, using the Euler-Cromer method. 
-	Besides, we study the motion of a pseudo planet in this three-star system.
-	Also, we generalize the model to cover arbitrary masses of these stars, and arbitrary orbits.
+    We investigate the three body problem, using the Euler-Cromer method. 
+    Besides, we study the motion of a pseudo planet in this three-star system.
+    Also, we generalize the model to cover arbitrary masses of these stars, and arbitrary orbits.
     We use Python to design the programs, which can realize the purpose of this assignment. 
     This article deals with the ideas for these problems, the programs ,and the results.
 
 ---
 
 ## *Introduction*
- - The motion of celestial objects has always aroused great curiosity in fields like astronomy and astrophysics. It is worth while to study a three-star system, which has a chaotic behavior so that it cannot be solved analytically.
+ - The motion of celestial objects has always aroused great curiosity in fields like astronomy and astrophysics. It is worthwhile to study a three-star system, which has a chaotic behavior so that it cannot be solved analytically.
  - There are many dramatic phenomenon in the study of planetary motion in a three-star system. Now consider a hypothetical, ideal celestial system consisting of star A, star B, star C, and a planet, which gravity can be ignored compare with that of three stars. All experience only the gravitation produced by the others. A few of the properties for different star masses and orbits are investigated here.
  - ![Alpha Centauri](http://h.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=586a2ffb76cf3bc7fc0dc5beb069d1c4/10dfa9ec8a1363275db311c5978fa0ec09fac7ee.jpg)
 
@@ -29,7 +29,7 @@
  - Add a planet to this system;
  - Investigate the motion of all four objects;
  - Allow the masses of these stars and their orbits to be adjustible;
- - Plot their trajectories in the mass center frame for arbitrary time.
+ - Plot their trajectories in the mass center frame for arbitrary time;
  - Study the behavior of their motion.
 
 
@@ -81,7 +81,7 @@
  - When one of the star is far away from the others, the two neighbor stars would rotate around each other, and they move as a whole in the rotation around the further star, also the further star rotate around them, forming a quasi-two-star system. If the planet is near that two stars, it would exhibits chaotic behavior, just as we have demonstrated in [Ex12](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-4/Exercise-12/Homework%2012.md), the planet would soon be throw away due to these two star's gravity or even collide with one of them. And if the planet rotates around the lonely star, it would almost rotates around this star regularly, almost forming a stable subsystem, even allows for the probability of the evolution of an intellectual creature.
  - In addition, for the case of Alpha Centauri which are of great interest, due to star C's relatively small mass, the motion of these three stars are relatively stable, i.e., the two neighbor larger star rotate around each other with precession, while the further smaller star rotate around these two with an extremely long period, forming a quasi-two-star system in a whole.
  - But this system would be an inferno for a planet, such as earth, its trajectory is obviously chaotic, which means the creatures on it, if ever exists, must suffer irregular climate condition, such as extremely high and low temperature. To be worse, due to its chaotic movement, it would soon be thrown out of this system or even collide with one of these stars.
- - ![](http://g.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=f24c23c193eef01f591910978197f240/78310a55b319ebc4f186ec3c8526cffc1f17169c.jpg)
+ - ![The Three-Body Problem by Cixin Liu](http://g.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=f24c23c193eef01f591910978197f240/78310a55b319ebc4f186ec3c8526cffc1f17169c.jpg)
      
 ---
 
