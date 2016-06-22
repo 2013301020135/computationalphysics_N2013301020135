@@ -46,10 +46,10 @@
 : [Ex12](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-4/Exercise-12/Homework%2012.md)
 
 > - [ ] The Thirteenth Homework
-: [Ex13]()
+: [Ex13](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-5/Exercise-13/Homework%2013.md)
 
 > - [ ] The Forteenth Homework
-: [Ex14]()
+: [Ex14](https://github.com/2013301020135/computationalphysics_N2013301020135/blob/master/Chapter-6/Exercise-14/Homework%2014.md)I would finish this before 2016.06.24.23:59.
 
 > - [x] The Fifteenth Homework
 : Cancelled
